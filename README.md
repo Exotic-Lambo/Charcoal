@@ -1,1 +1,1 @@
-# Charcoal
+# Charcoal Theme
