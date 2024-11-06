@@ -1,6 +1,7 @@
-# Charcoal Theme for Chrome 
-
-A Clean Dark Theme that is easy on your eyes & comfortable to use
+<div align="center">
+  <h1>Charcoal Theme for Chrome</h1>
+  <p>A Clean Dark Theme that is easy on your eyes & comfortable to use, centered.</p>
+</div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img src="https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/1.%20Charcoal.png" alt="Image1" width="270" />
@@ -36,11 +37,10 @@ So I decided to make one myself!
 ![Charcoal](https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/3.%20Charcoal%20Black.png)
 ### Charcoal Black: Charcoal for Pitch Black Enthusiasts!
 
-<div align="center">
-  <h1>Charcoal Theme</h1>
-  <p>A short description of my project, centered.</p>
-</div>
 
 
 
 
+# Charcoal Theme for Chrome 
+
+A Clean Dark Theme that is easy on your eyes & comfortable to use
