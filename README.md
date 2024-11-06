@@ -4,9 +4,8 @@
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/1.%20Charcoal.png" alt="Charcoal" width="270" />
-  <img src="https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/2.%20Charcoal%20Grey.png" alt="Charcoal Grey" width="270" />
-  <img src="https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/3.%20Charcoal%20Black.png" alt="Charcoal Black" width="270" />
+  <img src="https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/1.%20Charcoal.png" alt="Charcoal" width="250" />
+
 </div>
 
 ### What makes this theme different?
