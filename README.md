@@ -2,6 +2,12 @@
 
 A Clean Dark Theme that is easy on your eyes & comfortable to use
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/1.%20Charcoal.png" alt="Image1" width="270" />
+  <img src="https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/2.%20Charcoal%20Grey.png" alt="Image2" width="270" />
+  <img src="https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/3.%20Charcoal%20Black.png" alt="Image3" width="270" />
+</div>
+
 ### What makes this theme different?
 There are so many dark themes for but all of them have issues like
 
@@ -35,10 +41,6 @@ So I decided to make one myself!
   <p>A short description of my project, centered.</p>
 </div>
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/1.%20Charcoal.png" alt="Image1" width="270" />
-  <img src="https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/2.%20Charcoal%20Grey.png" alt="Image2" width="270" />
-  <img src="https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/3.%20Charcoal%20Black.png" alt="Image3" width="270" />
-</div>
+
 
 
