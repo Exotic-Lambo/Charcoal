@@ -38,3 +38,6 @@ So I decided to make one myself!
 
 ![Charcoal](https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/3.%20Charcoal%20Black.png)
 ### Charcoal Black: Charcoal for Pitch Black Enthusiasts!
+
+
+![Charcoal](https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/Screen.mp4)
