@@ -30,14 +30,11 @@ So I decided to make one myself!
 
 ## Flavours
 
-![Charcoal](https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/1.%20Charcoal.png)
+![Charcoal](https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/Charcoal.png)
 ### <centre> Charcoal Original: Charcoal theme in it's full glory! <Centre> |
 
-![Charcoal](https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/2.%20Charcoal%20Grey.png)
+![Charcoal](https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/Charcoal%20Grey.png)
 ### Charcoal Grey: Charcaol with a touch of Grey! |
 
-![Charcoal](https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/3.%20Charcoal%20Black.png)
+![Charcoal](https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/Charcoal%20Black.png)
 ### Charcoal Black: Charcoal for Pitch Black Enthusiasts!
-
-
-![Charcoal](https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/Screen.mp4)
