@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Charcoal Theme for Chrome</h1>
-  <p>A Clean Dark Theme that is easy on your eyes & comfortable to use, centered.</p>
+  <p>A Clean Dark Theme that is easy on your eyes & comfortable to use</p>
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
@@ -26,9 +26,9 @@ So I decided to make one myself!
  - Easy on eyes with proper contrast between elements.
  - Three flavours: Charcoal, Charcoal Grey & Charcoal Black 
 
-## Screenshots
+## Flavours
 
-| ![Charcoal](https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/1.%20Charcoal.png)
+![Charcoal](https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/1.%20Charcoal.png)
 ### <centre> Charcoal Original: Charcoal theme in it's full glory! <Centre> |
 
 ![Charcoal](https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/2.%20Charcoal%20Grey.png)
