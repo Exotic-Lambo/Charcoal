@@ -31,10 +31,10 @@ So I decided to make one myself!
 ## Theme Flavours
 
 ![Charcoal](https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/Charcoal.png)
-> ### Charcoal: Charcoal theme in it's full glory!
+<h3 align="center">Charcoal: Charcoal theme in it's full glory!</h3>
 
 ![Charcoal](https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/Charcoal%20Grey.png)
-> ### Charcoal Grey: Charcaol with a touch of Grey!
+<h3 align="center">Charcoal Grey: Charcaol with a touch of Grey!</h3>
 
 ![Charcoal](https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/Charcoal%20Black.png)
-> ### Charcoal Black: Charcoal for OLED Screens!
+<h3 align="center">Charcoal Black: Charcoal for OLED Screens!</h3>
