@@ -28,13 +28,13 @@ So I decided to make one myself!
  - Easy on eyes with proper contrast between elements.
  - Three flavours: Charcoal, Charcoal Grey & Charcoal Black 
 
-## Flavours
+> ## Theme Flavours
 
 ![Charcoal](https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/Charcoal.png)
-### <centre> Charcoal Original: Charcoal theme in it's full glory! <Centre> |
+> ### Charcoal: Charcoal theme in it's full glory!
 
 ![Charcoal](https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/Charcoal%20Grey.png)
-### Charcoal Grey: Charcaol with a touch of Grey! |
+> ### Charcoal Grey: Charcaol with a touch of Grey!
 
 ![Charcoal](https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/Charcoal%20Black.png)
-### Charcoal Black: Charcoal for Pitch Black Enthusiasts!
+> ### Charcoal Black: Charcoal for OLED Screens!
