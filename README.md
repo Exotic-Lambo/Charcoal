@@ -22,7 +22,7 @@ So I decided to make one myself!
 ## Screenshots
 
 ![Charcoal](https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/1.%20Charcoal.png)
-### Charcoal Original: Charcoal theme in it's full glory!
+### <centre> Charcoal Original: Charcoal theme in it's full glory! <Centre>
 
 ![Charcoal](https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/2.%20Charcoal%20Grey.png)
 ### Charcoal Grey: Charcaol with a touch of Grey!
