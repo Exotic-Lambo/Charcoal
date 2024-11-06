@@ -9,6 +9,7 @@
   <img src="https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/3.%20Charcoal%20Black.png" alt="Image3" width="272" />
 </div>
 
+
 ### What makes this theme different?
 There are so many dark themes for but all of them have issues like
 
@@ -18,6 +19,7 @@ There are so many dark themes for but all of them have issues like
 
 All of these caused eye strain & decreased my productivity. 
 So I decided to make one myself!
+
 
 ### Features
 
