@@ -28,7 +28,7 @@ So I decided to make one myself!
  - Easy on eyes with proper contrast between elements.
  - Three flavours: Charcoal, Charcoal Grey & Charcoal Black 
 
-> ## Theme Flavours
+## Theme Flavours
 
 ![Charcoal](https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/Charcoal.png)
 > ### Charcoal: Charcoal theme in it's full glory!
