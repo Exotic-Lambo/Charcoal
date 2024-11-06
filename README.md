@@ -10,13 +10,9 @@
 </div>
 
 ### What makes this theme different?
-There are so many dark themes out there, but they all have issues, such as:
+This theme solves common dark theme problems, like being too light, too dark, or lacking contrast between tabs.
 
- - Not dark enough
- - So dark that elements become invisible
- - Lack of contrast between tabs
-
-All of these issues caused eye strain and decreased my productivity, so I decided to create my own!
+All of these issues cause eye strain and lower my productivity, so I decided to create my own!
 
 ### Features
 
@@ -45,3 +41,9 @@ All of these issues caused eye strain and decreased my productivity, so I decide
 
 ![Charcoal Black](https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/Charcoal%20Black.png)
 <h3 align="center">Charcoal Black: Charcoal designed for OLED screens!</h3>
+
+<!-- There are so many dark themes out there, but they all have issues, such as:
+
+ - Not dark enough
+ - So dark that elements become invisible
+ - Lack of contrast between tabs -->
