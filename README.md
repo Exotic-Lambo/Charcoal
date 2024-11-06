@@ -33,7 +33,7 @@ All of these issues caused eye strain and decreased my productivity, so I decide
 4. Drag and drop the theme file
 5. Click "Add theme"
 
-> You can also use "Load Unpacked themes" option by downloading source code & choosing the theme folder.
+> "You can also use the 'Load unpacked' option by downloading the source code and selecting the theme folders."
 
 ## Theme Flavours
 
