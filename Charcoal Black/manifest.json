@@ -1,0 +1,36 @@
+{
+  "manifest_version": 3,
+  "version": "1.0",
+  "name": "Charcoal Black",
+  "description": "A Dark theme that is good on eyes & comfortable to use!",
+  "theme": {
+    "colors": {
+      "frame": [25, 25, 25],
+      "frame_inactive": [25, 25, 25],
+      "frame_incognito": [25, 25, 25],
+      "frame_incognito_inactive": [25, 25, 25],
+
+      "toolbar": [0, 0, 0],
+      "toolbar_text": [255, 255, 255],
+
+      "omnibox_background": [25, 25, 25],
+      "omnibox_text": [255, 255, 255],
+      "omnibox_background_inactive": [15, 15, 15],
+      "omnibox_text_inactive": [200, 200, 200],
+
+      "tab_background": [255, 255, 255],
+      "tab_text": [255, 255, 255],
+      "tab_background_text": [200, 200, 200],
+
+      "bookmark_text": [200, 200, 200],
+
+      "ntp_background": [0, 0, 0],
+      "ntp_text": [200, 200, 200],
+      "ntp_link": [200, 200, 200]
+    },
+    "properties": {
+      "ntp_background_alignment": "center",
+      "ntp_background_repeat": "no-repeat"
+    }
+  }
+}
