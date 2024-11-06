@@ -21,12 +21,23 @@ So I decided to make one myself!
 
 ## Screenshots
 
-![Charcoal](https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/1.%20Charcoal.png)
-### <centre> Charcoal Original: Charcoal theme in it's full glory! <Centre>
+| ![Charcoal](https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/1.%20Charcoal.png)
+### <centre> Charcoal Original: Charcoal theme in it's full glory! <Centre> |
 
 ![Charcoal](https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/2.%20Charcoal%20Grey.png)
-### Charcoal Grey: Charcaol with a touch of Grey!
+### Charcoal Grey: Charcaol with a touch of Grey! |
 
 ![Charcoal](https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/3.%20Charcoal%20Black.png)
 ### Charcoal Black: Charcoal for Pitch Black Enthusiasts!
 
+<div align="center">
+  <h1>My Project</h1>
+  <p>A short description of my project, centered.</p>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/1.%20Charcoal.png" alt="Image1" width="200" />
+  <img src="https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/2.%20Charcoal%20Grey.png" alt="Image2" width="200" />
+  <img src="https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/3.%20Charcoal%20Black.png" alt="Image3" width="200" />
+  <img src="image4_url" alt="Image4" width="200" />
+</div>
