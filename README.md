@@ -31,7 +31,7 @@ So I decided to make one myself!
 ### Charcoal Black: Charcoal for Pitch Black Enthusiasts!
 
 <div align="center">
-  <h1>My Project</h1>
+  <h1>Charcoal Theme</h1>
   <p>A short description of my project, centered.</p>
 </div>
 
@@ -41,25 +41,4 @@ So I decided to make one myself!
   <img src="https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/3.%20Charcoal%20Black.png" alt="Image3" width="270" />
 </div>
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-
-  <!-- Image 1 -->
-  <div style="text-align: center; border: 1px solid #ddd; padding: 10px; border-radius: 8px; width: 250px;">
-    <img src="https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/1.%20Charcoal.png" alt="Image 1" style="width: 100%; border-radius: 8px;" />
-    <p style="margin-top: 10px;">Charcoal Original: Charcoal theme in its full glory!</p>
-  </div>
-
-  <!-- Image 2 -->
-  <div style="text-align: center; border: 1px solid #ddd; padding: 10px; border-radius: 8px; width: 250px;">
-    <img src="https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/2.%20Charcoal%20Grey.png" alt="Image 2" style="width: 100%; border-radius: 8px;" />
-    <p style="margin-top: 10px;">Charcoal Grey: Charcoal with a touch of Grey!</p>
-  </div>
-
-  <!-- Image 3 -->
-  <div style="text-align: center; border: 1px solid #ddd; padding: 10px; border-radius: 8px; width: 250px;">
-    <img src="https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/3.%20Charcoal%20Black.png" alt="Image 3" style="width: 100%; border-radius: 8px;" />
-    <p style="margin-top: 10px;">Charcoal Black: Charcoal for Pitch Black Enthusiasts!</p>
-  </div>
-
-</div>
 
