@@ -12,7 +12,6 @@ There are so many dark themes for but all of them have issues
 
 ### Charcoal Original: Charcoal theme in it's full glory!
 ![Charcoal](https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/1.%20Charcoal.png)
-<img src="https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/1.%20Charcoal.png" width="75%">
 
 ### Charcoal Grey: Charocaol with a touch of Grey!
 ![Charcoal](https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/2.%20Charcoal%20Grey.png)
