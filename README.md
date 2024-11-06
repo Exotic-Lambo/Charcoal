@@ -39,5 +39,4 @@ So I decided to make one myself!
   <img src="https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/1.%20Charcoal.png" alt="Image1" width="200" />
   <img src="https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/2.%20Charcoal%20Grey.png" alt="Image2" width="200" />
   <img src="https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/3.%20Charcoal%20Black.png" alt="Image3" width="200" />
-  <img src="image4_url" alt="Image4" width="200" />
 </div>
