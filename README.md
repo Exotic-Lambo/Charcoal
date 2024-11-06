@@ -3,7 +3,7 @@
   <p>A dark theme that is easy on your eyes and comfortable to use</p>
 </div>
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; text-align:center">
   <img src="https://github.com/Exotic-Lambo/Charcoal/blob/main/Screenshots/1.%20Charcoal.png" alt="Charcoal" width="250" />
 
 </div>
